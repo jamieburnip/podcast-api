@@ -11,6 +11,5 @@
 |
 */
 
-$app->get('/', function () use ($app) {
-    return $app->version();
-});
+$app->get('podcasts', 'PodcastController@index');
+$app->get('podcasts/{id}', 'PodcastController@show');
