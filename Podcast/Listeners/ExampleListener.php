@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Listeners;
+namespace Podcast\Listeners;
 
-use App\Events\ExampleEvent;
+use Podcast\Events\ExampleEvent;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 

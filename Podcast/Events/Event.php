@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Podcast\Events;
 
 use Illuminate\Queue\SerializesModels;
 

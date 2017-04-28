@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Providers;
+namespace Podcast\Providers;
 
-use App\User;
+use Podcast\User;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\ServiceProvider;
 

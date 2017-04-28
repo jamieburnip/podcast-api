@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Podcast\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

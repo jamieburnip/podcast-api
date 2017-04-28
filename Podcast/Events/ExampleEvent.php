@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Podcast\Events;
 
 class ExampleEvent extends Event
 {
