@@ -95,7 +95,7 @@ $app->singleton(
 |
 */
 
-$app->group(['namespace' => 'Podcast\Http\Controllers'], function ($app) {
+$app->group(['namespace' => 'Podcast\Application\Http\Controllers'], function ($app) {
     require __DIR__ . '/../routes/web.php';
 });
 
