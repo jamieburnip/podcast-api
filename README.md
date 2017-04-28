@@ -1,2 +1,2 @@
 # podcast
-An example of vue.js and lumen.
+An example of lumen as an API.
